@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet Gökboğa</h1>
-<h3 align="center">I’m thrilled to share my AI projects and love diving deeper with each new one. For me, coding isn’t just a tool—it’s an art form. I enjoy learning, sharing, and contributing with every project. If you’re interested, check out my projects, contribute, or reach out so we can create something amazing together!</h3>
+<h3 align="center">I’m pleased to share a range of AI projects I have developed over the years. Feel free to explore my work, and don’t hesitate to reach out for potential collaborations or insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametgokboga13&label=Profile%20views&color=0e75b6&style=flat" alt="sametgokboga13" /> </p>
 
